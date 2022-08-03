@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Isramael
 - 👀 I’m interested in becoming a software developer and building esetablished connections with others who may share the same passion!
-- 🌱 I’m currently learning the basics of coding a website such as: HTML, JAVA, etc.
-- 💞️ I’m looking to collaborate on really anything I can get my hands on :)
+- 🌱 I’m currently learning the basics of coding a website such as: HTML, JAVA, C++ etc.
+- 💞️ I’m looking to collaborate on really anything I can get my hands on. My goal is to become a full stack developer!
 - 📫 How to reach me ... email: im.developer0212@gmail.com
 
 <!---
